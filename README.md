@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augenringe" alt="augenringe" /></a> </p>
 
-- 🔭 I’m currently working on [Some school project stuff](https://github.com/Augenringe/PythonMeetsNetzwerktechnik)
+- 🔭 I’m currently working on [An CSV work hour sorter]()
 
 - 🌱 I’m currently learning **JavaScript**
 

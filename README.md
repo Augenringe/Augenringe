@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Linux, Java and Python**
 
-- 📫 How to reach me **via discord: @egoblack**
+- 📫 How to reach me **via discord: @alucardlol06**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
